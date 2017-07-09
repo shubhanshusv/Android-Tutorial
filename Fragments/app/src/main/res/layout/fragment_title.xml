@@ -10,11 +10,10 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="122dp"
-        android:text="TextView"
         android:textColor="#000000"
         android:textSize="36sp"
         android:textStyle="bold"
-        tools:text="GALAXY" />
+        android:text="GALAXY" />
 
     <TextView
         android:id="@+id/gesture"
@@ -23,9 +22,8 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="52dp"
-        android:text="TextView"
         android:textColor="#000000"
         android:textSize="24sp"
         android:textStyle="bold"
-        tools:text="Gesture" />
+        android:text="Gesture" />
 </RelativeLayout>

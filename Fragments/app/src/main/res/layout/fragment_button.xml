@@ -33,6 +33,5 @@
         android:layout_below="@+id/editText2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
-        android:text="Button"
-        tools:text="LOGIN" />
+        android:text="LOGIN" />
 </RelativeLayout>
